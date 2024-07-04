@@ -18,7 +18,7 @@
 * [CIST](https://discord.gg/cisc) 中學生資訊群
 * [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz)](https://github.com/FliGhtzzz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz&size_weight=0.5&count_weight=0.5)
 
   
 <p align="left">
