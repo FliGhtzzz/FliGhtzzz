@@ -16,4 +16,14 @@
 * [SCAICT](https://scaict.org/) 中臺灣學生資訊社群
 * [SCIST](https://scist.org/) 南臺灣學生資訊社群
 * [CIST](https://discord.gg/cisc) 中學生資訊群
-* [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群
+* [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群  
+  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</p>
+
