@@ -18,7 +18,8 @@
 * [CIST](https://discord.gg/cisc) 中學生資訊群
 * [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz)](https://github.com/FliGhtzzz/github-readme-stats)
+
   
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
