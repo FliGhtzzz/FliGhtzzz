@@ -21,7 +21,9 @@
 # 統計資料  
 
 現在沒東西,但以後我想更新超多   
+
 ![FliGhtzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FliGhtzzz&show_icons=true&theme=codeSTACKr)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz&size_weight=0.5&count_weight=0.5&layout=pie&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <p align="left">
