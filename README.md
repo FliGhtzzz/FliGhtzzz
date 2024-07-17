@@ -2,7 +2,11 @@
 你好，我是**flightzz**，目前就讀CCHS，自己閒暇時會去寫程式，打遊戲或是放鬆，未來會想嘗試參加某些程式相關的比賽或營隊.現在對於discord與github的開發及使用很有興趣，如果你也是的話，歡迎來找我討論!
 # 程式
 平常會使用一些online-judge，但多半時間都是拿來做一些專案，各種OJ的連結在下，因為我真的很菜所以如果有覺得哪一題有問題可以問我來增加自己的自信心! 
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+</p>
 
 # 遊戲 
 遊戲上線的時間都不一定
@@ -23,10 +27,4 @@
 現在沒東西,但以後我想更新超多   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FliGhtzzz&size_weight=0.5&count_weight=0.5&layout=pie&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)![FliGhtzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FliGhtzzz&show_icons=true&theme=codeSTACKr) 
 
-  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-</p>
 
