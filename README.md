@@ -19,8 +19,9 @@
 * [SCINT](https://scint.org/) 北臺灣學生資訊社群
 * [SCAICT](https://scaict.org/) 中臺灣學生資訊社群
 * [SCIST](https://scist.org/) 南臺灣學生資訊社群
-* [CIST](https://discord.gg/cisc) 中學生資訊群
-* [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群
+* [CISC](https://discord.gg/cisc) 中學生資訊群
+* [SITCON_DC]([https://github.com/HackerSir/ITClubAwesome](https://discord.gg/pAeMZKXTDP)) [SITCON_TG](https://t.me/SITCONgeneral) 學生計算機年會
+
 
 # 統計資料  
 
