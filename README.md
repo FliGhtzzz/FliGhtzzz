@@ -23,7 +23,7 @@
 * [SCAICT](https://scaict.org/) 中臺灣學生資訊社群
 * [SCIST](https://scist.org/) 南臺灣學生資訊社群
 * [CISC](https://discord.gg/cisc) 中學生資訊群
-* [SITCON_DC]([https://github.com/HackerSir/ITClubAwesome](https://discord.gg/pAeMZKXTDP)) [SITCON_TG](https://t.me/SITCONgeneral) 學生計算機年會
+* [SITCON_DC](https://discord.gg/pAeMZKXTDP) [SITCON_TG](https://t.me/SITCONgeneral) 學生計算機年會
 
 
 # 統計資料  
