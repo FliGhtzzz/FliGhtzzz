@@ -16,13 +16,7 @@
 * 2025 TOI初選-全國RK119   
 * 2025 SITCON-場務組組員   
 * 2025 清大IONC營隊-學員
-
-# 遊戲 
-遊戲上線的時間都不一定
-* **RIOT**: FliGht#2485
-### 我推的遊戲
-* [LOL](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjFiMLZ0Z2EAxXT2BYFHdTgD9UYABAAGgJ0bA&ase=2&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lV5_YDgGYSKm6D2EKAmhkLnmUce7DiYbdppTUwL5mx1ITgqjxX-1phoCcM0QAvD_BwE&ohost=www.google.com&cid=CAESV-D2cSfjP8uNy3DYxKtR_aTrn7ijAU52xHAq9wrYSBvNvHQlUQXic7oln-BAeuamTpKS0c4ybdQxtc8-l5pk0Ar7vv4pjB7Kx8pwuG46K8mVMQ2wGRIZpQ&sig=AOD64_0pKPdx0y8pSjEz6EmzxaXd9PIYVA&q&nis=4&adurl&ved=2ahUKEwi2kLvZ0Z2EAxWrePUHHSbuBUwQ0Qx6BAgFEAE)
-* [EU-TRUCK2](https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/)
+  
 # 社群推薦
 * [APCS_simulation](https://discord.gg/ghe48J7ypF) APCS模擬賽
 * [SCINT](https://scint.org/) 北臺灣學生資訊社群
