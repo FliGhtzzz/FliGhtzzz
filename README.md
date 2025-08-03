@@ -62,3 +62,7 @@
 * [SCIST](https://scist.org/) 南臺灣學生資訊社群
 * [CISC](https://discord.gg/cisc) 中學生資訊群
 * [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群
+
+* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flightzzz&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flightzzz&show_icons=true&theme=radical)
+
