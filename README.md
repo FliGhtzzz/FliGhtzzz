@@ -2,17 +2,6 @@
 你好，我是 **梁哲豪**，你也可以叫我 **flightzz**  ，目前就讀NTUST CS，自己閒暇時會去寫程式，打遊戲或是放鬆，如果你有事想跟我討論的話，歡迎私訊我。
 
 
-<div class="calendar-wrapper">
-  <iframe
-    src="https://calendar.google.com/calendar/embed?src=tw0729brad%40gmail.com&ctz=Asia%2FTaipei"
-    style="border: 0"
-    width="100%"
-    height="600"
-    frameborder="0"
-    scrolling="no">
-  </iframe>
-</div>
-
 # 程式
 平常會使用一些online-judge，也會做專案跟練習資安。有興趣的話歡迎來找我討論。
 # 會的一些東西
