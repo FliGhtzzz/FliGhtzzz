@@ -1,8 +1,23 @@
+---
+title: about
+layout: about
+---
+你好，我是 **梁哲豪**，你也可以叫我 **flightzz**  ，目前就讀NTUST CS，自己閒暇時會去寫程式，打遊戲或是放鬆，如果你有事想跟我討論的話，歡迎私訊我。
 
-你好，我是 **梁哲豪**，你也可以叫我 **flightzz**  ，目前就讀 NTUST CS，自己閒暇時會去寫程式，打遊戲或是放鬆，未來會想嘗試參加某些程式相關的比賽或營隊，如果你有事想跟我討論的話，歡迎私訊我。
+
+<div class="calendar-wrapper">
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=tw0729brad%40gmail.com&ctz=Asia%2FTaipei"
+    style="border: 0"
+    width="100%"
+    height="600"
+    frameborder="0"
+    scrolling="no">
+  </iframe>
+</div>
 
 # 程式
-高中期間有參加一些程式競賽，也有獲得一些成績，目前在大學還是想揪人一起打，但範圍變更多包括黑客松、競程、資安，總之你有興趣都可以找我
+平常會使用一些online-judge，也會做專案跟練習資安。有興趣的話歡迎來找我討論。
 # 會的一些東西
 <p align="left" style="display:inline">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -25,7 +40,7 @@
   </a>
 </p>
 
-# 經歷
+# 教學經驗
 * 113CCHS資訊讀書會-講師
 * 113CCHS資訊研究社-副社
 * APCS 實作4/觀念4
@@ -35,6 +50,38 @@
 * 2024 YTP決賽-參賽
 * 2024 ISSC青年程式設計競賽英文組-全國第9名
 * 2025 TOI初選-全國RK119
+* 2025 成大高中生邀請賽初賽-全國27名
+* 2025 成大高中生邀請賽決賽-全國第7名-佳作
+* 2025 雄中氣球杯-實體rk3
+* 2025 YTP-初賽RK11
+* 2025 YTP-決賽RK18 - 完成專題。
+* 2026 TOI初選-全國RK117
+* 2026 成大高中生邀請賽決賽-全國第13名-佳作
+
+# 營隊與課程
+* 2024 資得其樂南九校聯合寒訓-學員
+* 2024 陽交大資訊人才培訓營-學員
+* 2024 SITCON-CAMP-學員
+* 2024 清大IONC營隊-學員
+* 2025 資訊之芽南區算法班-結業
+* 2025 清大IONC營隊-學員
+
+# 社群
+* 2024 COSCUP-會眾
+* 2025 SITCON-場務組組員
+* 2026 SITCON-會眾
+
+# 我推的OJ
+* [Codeforce](https://codeforces.com/profile/flightzz)
+* [CSES](https://cses.fi/problemset/user/224562/)
+
+# 社群推薦
+* [APCS_simulation](https://discord.gg/ghe48J7ypF) APCS模擬賽
+* [SCINT](https://scint.org/) 北臺灣學生資訊社群
+* [SCAICT](https://scaict.org/) 中臺灣學生資訊社群
+* [SCIST](https://scist.org/) 南臺灣學生資訊社群
+* [CISC](https://discord.gg/cisc) 中學生資訊群
+* [IT-CLUB](https://github.com/HackerSir/ITClubAwesome) 資訊群* 2025 TOI初選-全國RK119
 * 2025 成大高中生邀請賽初賽-全國27名
 * 2025 成大高中生邀請賽決賽-全國第7名-佳作
 
